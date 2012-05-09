@@ -26,17 +26,17 @@
 		2E0D9395155ACA8C003E7EC1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2E0D9397155ACA8C003E7EC1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		2E0D9399155ACA8C003E7EC1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		2E0D939D155ACA8C003E7EC1 /* Turns-Info.plist */ = {isa = PBXFileReference; path = "Turns-Info.plist"; sourceTree = "<group>"; };
+		2E0D939D155ACA8C003E7EC1 /* Turns-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Turns-Info.plist"; sourceTree = "<group>"; };
 		2E0D939F155ACA8C003E7EC1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2E0D93A1155ACA8C003E7EC1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2E0D93A3155ACA8C003E7EC1 /* Turns-Prefix.pch */ = {isa = PBXFileReference; path = "Turns-Prefix.pch"; sourceTree = "<group>"; };
-		2E0D93A4155ACA8C003E7EC1 /* TurnsAppDelegate.h */ = {isa = PBXFileReference; path = TurnsAppDelegate.h; sourceTree = "<group>"; };
+		2E0D93A3155ACA8C003E7EC1 /* Turns-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Turns-Prefix.pch"; sourceTree = "<group>"; };
+		2E0D93A4155ACA8C003E7EC1 /* TurnsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TurnsAppDelegate.h; sourceTree = "<group>"; };
 		2E0D93A5155ACA8C003E7EC1 /* TurnsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TurnsAppDelegate.m; sourceTree = "<group>"; };
 		2E0D93A8155ACA8C003E7EC1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		2E0D93AB155ACA8C003E7EC1 /* Turns.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Turns.xcdatamodel; sourceTree = "<group>"; };
-		2E0D93AD155ACA8C003E7EC1 /* TurnsMasterViewController.h */ = {isa = PBXFileReference; path = TurnsMasterViewController.h; sourceTree = "<group>"; };
+		2E0D93AD155ACA8C003E7EC1 /* TurnsMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TurnsMasterViewController.h; sourceTree = "<group>"; };
 		2E0D93AE155ACA8D003E7EC1 /* TurnsMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TurnsMasterViewController.m; sourceTree = "<group>"; };
-		2E0D93B0155ACA8D003E7EC1 /* TurnsDetailViewController.h */ = {isa = PBXFileReference; path = TurnsDetailViewController.h; sourceTree = "<group>"; };
+		2E0D93B0155ACA8D003E7EC1 /* TurnsDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TurnsDetailViewController.h; sourceTree = "<group>"; };
 		2E0D93B1155ACA8D003E7EC1 /* TurnsDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TurnsDetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
